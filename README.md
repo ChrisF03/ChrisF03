@@ -51,124 +51,23 @@
 <img align="left" alt="Streamlit" width="60px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"
 <img align="left" alt="Tableau" width="35px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" />
 <img align="left" alt="PowerBI" width="25px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" />
+<img align="left" alt="Excel" width="40px" src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" />
+<img align="left" alt="Word" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" />
+<img align="left" alt="PowerPoint" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />
+<br>
+<br>
+<br>
+
+<h3 align="left"><b>Last Completed Project: </b></h4>
+
+|Title|Description|Tech Used|Links|
+|-----|-----------|---------|-----|
+|[Supply Chain Analysis](https://github.com/ChrisF03/Portfolio-Projects/blob/main/Supply_Chain_Analysis.xlsx)|-Used MS Excel to analyze supply chain shipments and commodity pricing data for HIV/AIDS medication from the United States Agency for International Development.<br><br>-Leveraged Pivot to gain insight into the dataset and put together visualizations for a dashboard.|Excel|N/A|
 
 <br>
 <br>
 <br>
-<br>
-
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisf03&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Christian's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisf03&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
-
-<!-- ### :zap: Github Stats
-
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=chrisf03&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%"> -->
-  
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisf03&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Christian's Top Languages"> -->
-
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisf03&show_icons=true&hide_border=true&theme=dark) --> <!--Sumanth-Talluri-->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ChrisF03&theme=tokyonight&fire=EB5454)](https://git.io/streak-stats) -->
-<!-- ![Christian's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisf03&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
-
-<br>
-
-<!-- ### :zap: Recent Github Activity -->
-  
-<!--START_SECTION:activity
-1. 💪 Opened PR [#363](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/363) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 💪 Opened PR [#423](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/423) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-3. ❗️ Opened issue [#172](https://github.com/EddieJaoudeCommunity/support/issues/172) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-END_SECTION:activity-->
-
-<br>
-
-<!-- ### 📊 &nbsp; STATS
-
-START_SECTION_LINES_OF_CODE:readme-info
-**From Hello World I have written 1.4 million Lines of Code ✍️**
-
-
-END_SECTION_LINES_OF_CODE:readme-info
-
-START_SECTION_DAILY_COMMIT:readme-info
-**I'm an early 🐤** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |65 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
-|🌆 Daytime                |188 commits         |![](https://via.placeholder.com/172x22/000000/000000?text=+)![](https://via.placeholder.com/228x22/b8b8b8/b8b8b8?=text=+)|43.22%|
-|🌃 Evening                |159 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.55%|
-|🌙 Night                  |23 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.29%|
-| | | | |
-
-END_SECTION_DAILY_COMMIT:readme-info
-
-START_SECTION_WEEKLY_COMMIT:readme-info
-📅 **I'm Most Productive on Thursdays** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Monday                   |73 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.9%|
-|Tuesday                  |44 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.38%|
-|Wednesday                |71 commits          |![](https://via.placeholder.com/56x22/000000/000000?text=+)![](https://via.placeholder.com/344x22/b8b8b8/b8b8b8?=text=+)|13.52%|
-|Thursday                 |128 commits         |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.38%|
-|Friday                   |62 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.81%|
-|Saturday                 |54 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.29%|
-|Sunday                   |93 commits          |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|17.71%|
-| | | | |
-
-END_SECTION_WEEKLY_COMMIT:readme-info
-
-START_SECTION_LANGUAGE:readme-info
-**My 💖 languages Python** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
-|HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
-|JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
-| | | | |
-
-END_SECTION_LANGUAGE:readme-info
-
-<br>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
-
-[website]:
-[twitter]: https://twitter.com/sumanth_98?s=09
-[youtube]: https://www.youtube.com/channel/UC40R8Rvwjhu08Z0MFffNfsg
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/ -->
-
-#### Thank You 🙏🏼
+<h4 align="left">Thank You 🙏🏼</h4>
 
 ⭐️ From [Christian](https://github.com/chrisf03)
 
