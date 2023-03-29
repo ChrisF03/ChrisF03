@@ -10,6 +10,9 @@
   <h4 align="center"><b>"Data is the new oil"</b></h4>
 </p>
 
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/chrisf03" />
+</p>
 
 <p align="center">
 <br>
