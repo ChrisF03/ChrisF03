@@ -30,7 +30,7 @@
 ### I'm a Recent CUNY Grad and Data Aficionado
 - 🔭 I’m currently working on an SQL project using Economic Data :grin:
 - 🌱 I’m currently learning [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning).
-- 👯 I’m looking to collaborate with other Data lovers 
+- 👯 I’m looking to collaborate with other data fanatics. 
 - 🥅 2023 Goals: Break into my first data role 
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's Connect!](https://www.linkedin.com/in/chrisf03/)
