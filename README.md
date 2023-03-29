@@ -1,7 +1,7 @@
   <!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 <!-- cyberpunk ![bc87e5124f8d2cfe810d403adc96ad01](https://user-images.githubusercontent.com/103148784/228347853-6f82750e-f4ce-4cbb-b419-aabd1def69d9.gif) -->
-![nyc](https://user-images.githubusercontent.com/103148784/228350087-8d9b3704-1521-45b9-ae68-ff505fe3e0ec.gif)
-
+<!-- ![nyc](https://user-images.githubusercontent.com/103148784/228350087-8d9b3704-1521-45b9-ae68-ff505fe3e0ec.gif) -->
+![new-york-buildings-city-night-minimalism-4e-2560x1700](https://user-images.githubusercontent.com/103148784/228442039-9358206b-686f-4ec5-8780-c82194dd2d3d.jpg)
 <p>
   <h1 align="center"><b>Hello there, I'm Christian 👋</b></h1>
 </p>
