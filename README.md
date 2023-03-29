@@ -65,8 +65,6 @@
 |[Supply Chain Analysis](https://github.com/ChrisF03/Portfolio-Projects/blob/main/Supply_Chain_Analysis.xlsx)|-Used MS Excel to analyze supply chain shipments and commodity pricing data for HIV/AIDS medication from the United States Agency for International Development.<br><br>-Leveraged Pivot to gain insight into the dataset and put together visualizations for a dashboard.|Excel|N/A|
 
 <br>
-<br>
-<br>
 <h4 align="left">Thank You 🙏🏼</h4>
 
 ⭐️ From [Christian](https://github.com/chrisf03)
