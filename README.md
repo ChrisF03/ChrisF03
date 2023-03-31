@@ -28,7 +28,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I'm a Recent CUNY Grad and Data Aficionado
-- 🔭 I’m currently working on an SQL project using Economic Data :grin:
+- 🔭 I’m currently working on an SQL project using Financial Data :grin:
 - 🌱 I’m currently learning [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning).
 - 👯 I’m looking to collaborate with other data fanatics. 
 - 🥅 2023 Goals: Break into my first data role 
