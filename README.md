@@ -28,7 +28,7 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I'm a Recent CUNY Grad and Data Aficionado
-- 🔭 I’m currently working on an SQL project :grin:
+- 🔭 I’m currently working on networking :grin:
 - 🌱 I’m currently learning [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning).
 - 👯 I’m looking to collaborate with other data fanatics. 
 - 🥅 2023 Goals: Break into my first data role 
@@ -62,7 +62,7 @@
 
 |Title|Description|Tech Used|Links|
 |-----|-----------|---------|-----|
-|[Supply Chain Analysis](https://github.com/ChrisF03/Portfolio-Projects/blob/main/Supply_Chain_Analysis.xlsx)|-Used MS Excel to analyze supply chain shipments and commodity pricing data for HIV/AIDS medication from the United States Agency for International Development.<br><br>-Leveraged Pivot Tables to gain insight into the dataset and put together visualizations for a dashboard.|Excel|N/A|
+|[Media Store SQL Analysis](https://github.com/ChrisF03/Portfolio-Projects/blob/main/MediaStoreAnalysis.sql)|-Curated a list of SQL queries analyzing invoices for a fictional media store. The database contained multiple tables containing information on customers, employees and products.<br><br>-Mainly focused on aggregate functions and joins to conduct analysis.|SQL|N/A|
 
 <br>
 <h4 align="left">Thank You 🙏🏼</h4>
