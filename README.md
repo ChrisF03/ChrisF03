@@ -20,7 +20,7 @@
 <!-- <a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp; -->
 <a href="https://www.linkedin.com/in/chrisf03"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:fernandez.christian13@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=google&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://chrisf03.github.io/ChristiansPortfolio/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-lightblue.svg?&style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://chrisf03.github.io/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-lightblue.svg?&style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
 
 <br>
