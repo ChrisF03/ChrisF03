@@ -35,7 +35,7 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's Connect!](https://www.linkedin.com/in/chrisf03/)
 - 🧗 I try to: constantly learn and improve my skillset and abilities
-- ⚡ Fun fact: I'm a huge baseball fan :baseball:
+- ⚡ Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth 😱
 
 <br>
 
