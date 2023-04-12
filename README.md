@@ -29,7 +29,7 @@
 
 ### I'm a Recent CUNY Grad and Data Aficionado
 - 🔭 I’m currently working on networking :grin:
-- 🌱 I’m currently trying to improve on [SQL](https://www.coursera.org/specializations/mathematics-machine-learning)
+- 🌱 I’m currently trying to improve on [SQL](https://www.coursera.org/specializations/learn-sql-basics-data-science)
 - 👯 I’m looking to collaborate with other data fanatics. 
 - 🥅 2023 Goals: Break into my first data role 
 - 💬 Ask me about anything, I am happy to help :smile:
