@@ -49,11 +49,13 @@
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Streamlit" width="60px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg"
-<img align="left" alt="Tableau" width="35px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" />
+<img align="left" alt="Tableau" width="35px" src="https://i.postimg.cc/mDbptxvS/62e14245eb4d9a9dc054c181.png" />
+<img align="left" alt="Tableau" width="40px" src="https://i.postimg.cc/mDbptxvS/62e14245eb4d9a9dc054c181.png" />
 <img align="left" alt="PowerBI" width="25px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" />
 <img align="left" alt="Excel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
 <img align="left" alt="Word" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" />
 <img align="left" alt="PowerPoint" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" />
+<!-- <img align="left" alt="Pt" width="40px" src="https://i.postimg.cc/mDbptxvS/62e14245eb4d9a9dc054c181.png" /> -->
 <br>
 <br>
 <br>
