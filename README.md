@@ -64,7 +64,7 @@
 
 |Title|Description|Links|
 |-----|-----------|-----|
-|[Northwind Traders Dashboard](https://public.tableau.com/app/profile/chrisf03/viz/NorthwindTradersExecutiveDashboard/Overview)|-This dashboard was submitted to [Maven Analytics Northwind Challenge](https://mavenanalytics.io/challenges/maven-northwind-challenge/24)<br><br>-Built a top-level KPI dashboard for the executive team at Northwind Traders, a global shipping company that specializes in supplying high-quality gourmet food around the world.<br><br>-KPI's are split into 3 separate pages (Overview, Customer Breakdown, and Product Performance) providing a clean and effective viewing experience for stakeholders.|Dashboard:<br>https://tinyurl.com/277rrhhy|
+|[Northwind Traders Dashboard](https://public.tableau.com/app/profile/chrisf03/viz/NorthwindTradersExecutiveDashboard/Overview)|-This dashboard was submitted to [Maven Analytics Northwind Challenge](https://mavenanalytics.io/challenges/maven-northwind-challenge/24)<br><br>-Built a top-level KPI dashboard for the executive team at Northwind Traders, a global shipping company that specializes in supplying high-quality gourmet food around the world.<br><br>-KPI's are split into 3 separate pages (Overview, Customer Breakdown, and Product Performance) providing a clean and effective viewing experience for stakeholders.|[Tableau Dashboard](https://tinyurl.com/277rrhhy)|
 
 <br>
 <h4 align="left">Thank you for stopping by !🙏🏼</h4>
