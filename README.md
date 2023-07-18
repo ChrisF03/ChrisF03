@@ -62,9 +62,9 @@
 
 <h3 align="left"><b>Last Completed Project: </b></h4>
 
-|Title|Description|Links|
+|Title|Description|Tools Used|
 |-----|-----------|-----|
-|[Northwind Traders Dashboard](https://public.tableau.com/app/profile/chrisf03/viz/NorthwindTradersExecutiveDashboard/Overview)|-This dashboard was submitted to [Maven Analytics Northwind Challenge](https://mavenanalytics.io/challenges/maven-northwind-challenge/24)<br><br>-Built a top-level KPI dashboard for the executive team at Northwind Traders, a global shipping company that specializes in supplying high-quality gourmet food around the world.<br><br>-KPI's are split into 3 separate pages (Overview, Customer Breakdown, and Product Performance) providing a clean and effective viewing experience for stakeholders.|[Tableau Dashboard](https://tinyurl.com/277rrhhy)|
+|[Plato's Pizzeria Sales Analysis](https://github.com/ChrisF03/Portfolio-Projects/tree/main/Projects/plato's%20pizza%20analysis)|-For this project, I took on the role of a data analyst for Plato's Pizzeria, a Greek-inspired pizza place in New Jersey.<br><br>-Used SQL to query a years worth of the restaurants transactional data.<br><br>-Put together a report on Tableau to visualize key metrics and areas of improvement as well as provided recommendations to improve business operations.|SQL, Tableau|
 
 <br>
 <h4 align="left">Thank you for stopping by !🙏🏼</h4>
