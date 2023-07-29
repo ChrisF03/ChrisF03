@@ -29,7 +29,7 @@
 
 ### I'm a Recent CUNY Grad and Data Aficionado
 - 🔭 I’m currently working on a new project 🚧
-- 🌱 I’m currently trying to improve on SQL
+- 🌱 I’m currently trying to improve on SQL 💻
 - 👯 I’m looking to collaborate with other data fanatics. 
 - 🥅 2023 Goals: Break into my first data role 
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -62,9 +62,9 @@
 
 <h3 align="left"><b>Last Completed Project: </b></h4>
 
-|Title|Description|Tools Used|
-|-----|-----------|-----|
-|[Plato's Pizzeria Sales Analysis](https://github.com/ChrisF03/Portfolio-Projects/tree/main/Projects/plato's%20pizza%20analysis)|-For this project, I took on the role of a data analyst for Plato's Pizzeria, a Greek-inspired pizza place in New Jersey.<br><br>-Used SQL to query a years worth of the restaurants transactional data.<br><br>-Put together a report on Tableau to visualize key metrics and areas of improvement as well as provided recommendations to improve business operations.|SQL, Tableau|
+|Title|Description|
+|-----|-----------|
+|[DataInMotion SQL Case Study #1](https://github.com/ChrisF03/Portfolio-Projects/tree/main/Projects/dataInMotion%20Case%20Studies#case-study-1--tiny-shop-sales)|- Conducted product and sales analysis for a small retail store using PostgreSQL. <br><br>-The database was made up four tables (customers, products, orders, order_items) and was queried to answer 10 questions using aggregate functions, JOINS, and CTE's.|
 
 <br>
 <h4 align="left">Thank you for stopping by !🙏🏼</h4>
