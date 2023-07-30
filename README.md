@@ -64,7 +64,7 @@
 
 |Title|Description|
 |-----|-----------|
-|[DataInMotion SQL Case Studies](https://github.com/ChrisF03/Portfolio-Projects/tree/main/Projects/dataInMotion%20Case%20Studies#)|- Conducted product and sales analysis for a small retail store using PostgreSQL. The database was made up of four tables (customers, products, orders, order_items) and was queried to answer 10 questions using aggregate functions, JOINS, and CTE's.<br><br>- Conducted departmental analysis of a company as a Human Resource professional using PostgreSQL. The database was made up of 3 tables (employees, projects, departments) and was queried to answer 5 questions using aggregate functions, SELF JOIN, and Window Functions.|
+|[DataInMotion SQL Case Studies](https://github.com/ChrisF03/Portfolio-Projects/tree/main/Projects/dataInMotion%20Case%20Studies#)|Case Study #1:  Conducted product and sales analysis for a small retail store using PostgreSQL. The database was made up of four tables (customers, products, orders, order_items) and was queried to answer 10 questions using aggregate functions, JOINS, and CTE's.<br><br>Case Study #2: Conducted departmental analysis of a company as a Human Resource professional using PostgreSQL. The database was made up of 3 tables (employees, projects, departments) and was queried to answer 5 questions using aggregate functions, SELF JOIN, and Window Functions.|
 
 <br>
 <h4 align="left">Thank you for stopping by !🙏🏼</h4>
