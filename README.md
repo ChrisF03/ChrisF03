@@ -64,7 +64,7 @@
 
 |Title|Description|
 |-----|-----------|
-|[DataInMotion SQL Case Studies](https://github.com/ChrisF03/Portfolio-Projects/tree/main/Projects/dataInMotion%20Case%20Studies#)|<ins>**Case Study #1**</ins>:<br> Conducted product and sales analysis for a small retail store using PostgreSQL. The database was made up of four tables (customers, products, orders, order_items) and was queried to answer 10 questions using aggregate functions, JOINS, and CTE's.<br><br><ins>**Case Study #2**</ins>:<br> Conducted departmental analysis of a company as a Human Resource professional using PostgreSQL. The database was made up of 3 tables (employees, projects, departments) and was queried to answer 5 questions using aggregate functions, SELF JOIN, and Window Functions.|
+|[Danny Ma's 8-week SQL Challenge](https://github.com/ChrisF03/Danny-Ma-SQL-Case-Studies-)|<ins>**Case Study #1**</ins>: <ins>Danny's Diner</ins><br> For this first one, Danny wants to use the data to answer a few simple questions about his customers at his newly opened diner, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favorite. <br><br> This case study focused heavily on the following functions :<br> - Common Table Expressions<br> - Grouping By Aggregates<br> - Window Functions for ranking and<br> - Table Joins|
 
 <br>
 <h4 align="left">Thank you for stopping by !🙏🏼</h4>
