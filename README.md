@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Data is the new oil"</b></h4>
+  <h4 align="center"><b>“We are what we repeatedly do. Excellence, then, is not an act, but a habit.” ― Aristotle</b></h4>
 </p>
 
 <p align="center">
