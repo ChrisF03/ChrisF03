@@ -64,7 +64,7 @@
 
 |Title|Description|
 |-----|-----------|
-|[Danny Ma's 8-week SQL Challenge](https://github.com/ChrisF03/Danny-Ma-SQL-Case-Studies-)|<ins>**Case Study #1**</ins>: <ins>Danny's Diner</ins><br> For this first one, Danny wants to use the data to answer a few simple questions about his customers at his newly opened diner, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favorite. <br><br> This case study focused heavily on the following functions :<br> - Common Table Expressions<br> - Grouping By Aggregates<br> - Window Functions for ranking and<br> - Table Joins|
+|[Danny Ma's 8-week SQL Challenge](https://github.com/ChrisF03/Danny-Ma-SQL-Case-Studies-)|<ins>**Case Study #3**</ins>: <ins>Foodie_FI</ins><br> For the third case study, Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!<br><br>Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.<br><br> This case study reflects realistic questions you would usually focus on for all product related analytics requests in a wide variety of industries, especially in the digital space!
 
 <br>
 <h4 align="left">Thank you for stopping by !🙏🏼</h4>
