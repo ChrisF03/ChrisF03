@@ -64,8 +64,7 @@
 
 |Title|Description|
 |-----|-----------|
-|[Danny Ma's 8-week SQL Challenge](https://github.com/ChrisF03/Danny-Ma-SQL-Case-Studies-)|<ins>**Case Study #3**</ins>: <ins>Foodie_FI</ins><br> For the third case study, Danny finds a few smart friends to launch his new startup Foodie-Fi in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world!<br><br>Danny created Foodie-Fi with a data driven mindset and wanted to ensure all future investment decisions and new features were decided using data. This case study focuses on using subscription style digital data to answer important business questions.<br><br> This case study reflects realistic questions you would usually focus on for all product related analytics requests in a wide variety of industries, especially in the digital space!
-
+|[Danny Ma's 8-week SQL Challenge](https://github.com/ChrisF03/Danny-Ma-SQL-Case-Studies-)|<ins>**Case Study #7**</ins>: <ins>Balanced Tree Clothing Co.</ins><br> Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business. <br><br> Sales, transactions and product exposure is always going to be a main objective for many data analysts and data scientists when working within a company that sells some type of product - Spoiler alert: nearly all companies will sell products! These questions helped provide some exposure to the type of analysis performed daily in these sorts of roles.
 <br>
 <h4 align="left">Thank you for stopping by !🙏🏼</h4>
 <!-- ⭐️ From [Christian](https://github.com/chrisf03) -->
