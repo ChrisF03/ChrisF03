@@ -64,7 +64,8 @@
 
 |Title|Description|
 |-----|-----------|
-|[Danny Ma's 8-week SQL Challenge](https://github.com/ChrisF03/Danny-Ma-SQL-Case-Studies-)|<ins>**Case Study #7**</ins>: <ins>Balanced Tree Clothing Co.</ins><br> Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business. <br><br> Sales, transactions and product exposure is always going to be a main objective for many data analysts and data scientists when working within a company that sells some type of product - Spoiler alert: nearly all companies will sell products! These questions helped provide some exposure to the type of analysis performed daily in these sorts of roles.
+|[Danny Ma's 8-week SQL Challenge](https://github.com/ChrisF03/Danny-Ma-SQL-Case-Studies-)|Danny Ma's 8-week SQL Challenge provides us multiple realistic end to end case studies that closely represent the sort of work performed in a data analytics role and includes datasets and case studies from a number of domains including: Marketing analytics, Financial markets, Fast moving consumer goods and more !|
+<!-- <ins>**Case Study #7**</ins>: <ins>Balanced Tree Clothing Co.</ins><br> Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business. <br><br> Sales, transactions and product exposure is always going to be a main objective for many data analysts and data scientists when working within a company that sells some type of product - Spoiler alert: nearly all companies will sell products! These questions helped provide some exposure to the type of analysis performed daily in these sorts of roles. -->
 <br>
 <h4 align="left">Thank you for stopping by !🙏🏼</h4>
 <!-- ⭐️ From [Christian](https://github.com/chrisf03) -->
