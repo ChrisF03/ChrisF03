@@ -29,9 +29,9 @@
 
 ### I'm a Recent CUNY Grad and Data Aficionado
 - 🔭 I’m currently working on a new project 🚧
-- 🌱 I’m currently trying to improve on SQL 💻
+- 🌱 I’m currently trying to improve on data visualization 💻
 - 👯 I’m looking to collaborate with other data fanatics. 
-- 🥅 2023 Goals: Break into my first data role 
+- 🥅 2024 Goals: Break into my first data role 
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's Connect!](https://www.linkedin.com/in/chrisf03/)
 - 🧗 I try to: constantly learn and improve my skillset and abilities
