@@ -64,7 +64,7 @@
 
 |Title|Description|
 |-----|-----------|
-|[Danny Ma's 8-week SQL Challenge](https://github.com/ChrisF03/Danny-Ma-SQL-Case-Studies-)|Danny Ma's 8-week SQL Challenge provides us multiple realistic end to end case studies that closely represent the sort of work performed in a data analytics role and includes datasets and case studies from a number of domains including: Marketing analytics, Financial markets, Fast moving consumer goods and more !|
+|[Adidas U.S Sales Analysis](https://github.com/ChrisF03/Portfolio-Projects/tree/main/Projects/adidas%20sales%20analysis%20(Excel))|-Used MS Excel to analyze 2 years worth of U.S sales data for the German athletic apparel and footwear corporation, Adidas.<br><br>-Leveraged Pivot Tables to gain insight in to the dataset and put together a number of visualizations to breakdown sales by region, retailer, etc.<br><br>-Provided strategic reccomendations, contributing to informed decision making and optimization of sales strategy.|
 <!-- <ins>**Case Study #7**</ins>: <ins>Balanced Tree Clothing Co.</ins><br> Danny, the CEO of this trendy fashion company has asked you to assist the team’s merchandising teams analyse their sales performance and generate a basic financial report to share with the wider business. <br><br> Sales, transactions and product exposure is always going to be a main objective for many data analysts and data scientists when working within a company that sells some type of product - Spoiler alert: nearly all companies will sell products! These questions helped provide some exposure to the type of analysis performed daily in these sorts of roles. -->
 <br>
 <h4 align="left">Thank you for stopping by !🙏🏼</h4>
